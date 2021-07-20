@@ -101,7 +101,7 @@ We prefer the use of Docker for local environments to allow for quick spin up, b
 - Create POST endpoint for storing the results of the contact form in the DB on submit (URL path up to your discretion)
 
 ## Resources
-- [Figma](https://api.mwi.dev/benchmark)
+- [Figma](https://www.figma.com/proto/ftGw3xU7H5abBHHcZYitxE/Benchmark?node-id=1%3A2&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=1%3A2)
 - [Laravel](https://laravel.com)
 - [Next.js by Vercel - The React Framework](https://nextjs.org/)
 - [NestJS - A progressive Node.js framework](https://nestjs.com/)
