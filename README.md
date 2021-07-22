@@ -6,7 +6,7 @@ You will find all necessary assets provided in this repository.
 Once complete, please provide a link to the repository or repositories that house the completed codebase to the contact who sent this to you.
 
 ## 1. Front-end Challenge
-Any framework or package may be used.
+Any framework or package may be used in addition to any that may have been requested by your contact.
 
 - Build out both layouts, see screenshots and Figma prototype link below
   - Desktop and mobile views are available from the left side menu in figma
@@ -101,7 +101,7 @@ We prefer the use of Docker for local environments to allow for quick spin up, b
 - Create POST endpoint for storing the results of the contact form in the DB on submit (URL path up to your discretion)
 
 ## Resources
-- [Figma](https://api.mwi.dev/benchmark)
+- [Figma](https://api.mwi.dev/figma)
 - [Laravel](https://laravel.com)
 - [Next.js by Vercel - The React Framework](https://nextjs.org/)
 - [NestJS - A progressive Node.js framework](https://nestjs.com/)
