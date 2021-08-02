@@ -10,6 +10,14 @@ Any framework or package may be used in addition to any that may have been reque
 
 - Build out both layouts, see screenshots and Figma prototype link below
   - Desktop and mobile views are available from the left side menu in figma
+  - Scale element sizes as necessary for content breaks 
+  - **Font**: https://fonts.google.com/specimen/Poppins
+  - **Primary Colors**:
+    - Gold: #DEBF79
+    - Dark Gray (background): #222222
+    - Mid Gray (text): #858585
+    - Light Gray (inputs): #F5F5F5
+    - Red: #800000
 - At the bottom of the mock up there is a Javascript puzzle. Please use the following data.
 
 Object 1
