@@ -11,7 +11,9 @@ Any framework or package may be used in addition to any that may have been reque
 - Build out both layouts, see screenshots and Figma prototype link below
   - Desktop and mobile views are available from the left side menu in figma
   - Scale element sizes as necessary for content breaks 
-  - **Font**: https://fonts.google.com/specimen/Poppins
+  - **Fonts**: https://fonts.google.com/specimen/Poppins
+    - Bold
+    - Medium
   - **Primary Colors**:
     - Gold: #DEBF79
     - Dark Gray (background): #222222
