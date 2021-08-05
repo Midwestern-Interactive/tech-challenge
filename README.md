@@ -3,7 +3,7 @@ This is a simple challenge to assess a base skill set and architectural mindset.
 
 You will find all necessary assets provided in this repository.
 
-Once complete, please provide a link to the repository or repositories that house the completed codebase to the contact who sent this to you.
+Once complete, place your codebase in a github repository and provide a link to it to the contact who sent this to you.
 
 ## 1. Front-end Challenge
 Any framework or package may be used in addition to any that may have been requested by your contact.

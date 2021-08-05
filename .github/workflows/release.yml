@@ -1,10 +1,11 @@
 on:
-  push:
+  pull_request:
     # Sequence of patterns matched against refs/tags
-    tags:
-      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+    types: [opened, reopened]
+    # tags:
+      # - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
 
-name: Create Release
+name: Create Release with
 
 jobs:
   build:
@@ -30,5 +31,5 @@ jobs:
           release_name: Release ${{ github.ref }}
           body: |
             ${{ steps.Changelog.outputs.changelog }}
-          draft: false
-          prerelease: false
+          draft: true
+          prerelease: true
