@@ -3,14 +3,14 @@ This is a simple challenge to assess a base skill set and architectural mindset.
 
 You will find all necessary assets provided in this repository.
 
-Once complete, place your codebase in a github repository and provide a link to it to the contact who sent this to you.
+Once complete, place your codebase in a github repository and provide the link your contact at Midwestern.
 
 ## 1. Front-end Challenge
 Any framework or package may be used in addition to any that may have been requested by your contact.
 
-- Build out both layouts, see screenshots and Figma prototype link below
-  - Desktop and mobile views are available from the left side menu in figma
-  - Scale element sizes as necessary for content breaks 
+- Programmatically build out both layouts, see screenshots and [Figma](https://api.mwi.dev/figma) prototype
+  - Desktop and mobile views are available from the left side menu in [Figma](https://api.mwi.dev/figma)
+  - Scale element sizes as necessary for content breaks
   - **Fonts**: https://fonts.google.com/specimen/Poppins
     - Bold
     - Medium
@@ -55,6 +55,8 @@ https://api.mwi.dev
 
 Will return an array of JSON objects containing a unique title and description for each section of the design.
 
+Images are not provided from the API, please hardcode the urls for these.
+
 **Example Response**
 ```json
 {
@@ -98,12 +100,10 @@ Accepts a form data object with all the key/value pairs from the form.
 ## 3. Back-end Challenge
 This will allow the client front-end to request content for all Lorem Ipsum sections as well as submit and store results from the contact form.
 
-We prefer the use of Docker for local environments to allow for quick spin up, but you may use whatever you're comfortable with.
-
 - Build a basic, non-authenticated API
 - Setup up a DB of your choosing (MySQL, Postgres etc.)
-- Write migrations and seeders for housing Lorem Ipsum content
-- Write migrations for storing results of the contact form
+- Write migrations for database table and seeders for housing Lorem Ipsum content
+- Write migrations for database table to store results of the contact form
 - Create GET endpoint that returns content from the DB for each of the Lorem Ipsum sections (URL path up to your discretion)
   - Content for title
   - Content for paragraph
@@ -112,6 +112,6 @@ We prefer the use of Docker for local environments to allow for quick spin up, b
 
 ## Resources
 - [Figma](https://api.mwi.dev/figma)
-- [Laravel](https://laravel.com)
 - [Next.js by Vercel - The React Framework](https://nextjs.org/)
 - [NestJS - A progressive Node.js framework](https://nestjs.com/)
+- [Laravel](https://laravel.com)
