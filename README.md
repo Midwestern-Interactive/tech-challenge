@@ -8,7 +8,7 @@ Once complete, place your codebase in a github repository and provide the link y
 ## 1. Front-end Challenge
 Any framework or package may be used in addition to any that may have been requested by your contact.
 
-- Programmatically build out both layouts, see screenshots and [Figma](https://api.mwi.dev/figma) prototype
+- Build out both layouts, see screenshots and [Figma](https://api.mwi.dev/figma) prototype
   - Desktop and mobile views are available from the left side menu in [Figma](https://api.mwi.dev/figma)
   - Scale element sizes as necessary for content breaks
   - **Fonts**: https://fonts.google.com/specimen/Poppins
