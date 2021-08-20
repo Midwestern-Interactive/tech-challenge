@@ -1,5 +1,6 @@
 # Technical Challenge
 This is a simple challenge to assess a base skill set and architectural mindset.
+Complete to the best of your ability, if you have any questions reach out your contact.
 
 You will find all necessary assets provided in this repository.
 
@@ -8,9 +9,11 @@ Once complete, place your codebase in a github repository and provide the link y
 ## 1. Front-end Challenge
 Any framework or package may be used in addition to any that may have been requested by your contact.
 
-- Build out both layouts, see screenshots and [Figma](https://api.mwi.dev/figma) prototype
+- Programmatically build out both layouts using HTML/CSS/SASS/JS or any other stack/framework mentioned
+  by your contact, see screenshots and [Figma](https://api.mwi.dev/figma) prototype for what the
+  finished product should look like.
   - Desktop and mobile views are available from the left side menu in [Figma](https://api.mwi.dev/figma)
-  - Scale element sizes as necessary for content breaks
+  - Scale elements/sections as necessary for content breaks in a responsive manner.
   - **Fonts**: https://fonts.google.com/specimen/Poppins
     - Bold
     - Medium
