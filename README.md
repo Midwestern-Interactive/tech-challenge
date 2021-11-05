@@ -1,6 +1,6 @@
 # Technical Challenge
 This is a simple challenge to assess a base skill set and architectural mindset.
-Complete to the best of your ability, if you have any questions reach out your contact.
+Complete to the best of your ability, if you have any questions reach out to your contact.
 
 You will find all necessary assets provided in this repository.
 
