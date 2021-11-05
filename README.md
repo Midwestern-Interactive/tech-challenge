@@ -4,7 +4,7 @@ Complete to the best of your ability, if you have any questions reach out your c
 
 You will find all necessary assets provided in this repository.
 
-Once complete, place your codebase in a github repository and provide the link your contact at Midwestern.
+Once complete, place your codebase in a github repository and provide the link to your contact at Midwestern.
 
 ## 1. Front-end Challenge
 Any framework or package may be used in addition to any that may have been requested by your contact.
