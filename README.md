@@ -101,7 +101,7 @@ Accepts a form data object with all the key/value pairs from the form.
 ```
 
 ## 3. Back-end Challenge
-This will allow the client front-end to request content for all Lorem Ipsum sections as well as submit and store results from the contact form.
+This will allow the client front-end to request content for all Lorem Ipsum sections as well as submit and store results from the contact form. Connect the results of this challenge to power challenge 1 (if applicable).
 
 - Build a basic, non-authenticated API
 - Setup up a DB of your choosing (MySQL, Postgres etc.)
