@@ -37,7 +37,7 @@ Object 2
 - Jordan Heigle
 - Tyler Viles
 
-Result Object
+Result Object/Array
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
