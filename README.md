@@ -105,8 +105,8 @@ This will allow the client front-end to request content for all Lorem Ipsum sect
 
 - Build a basic, non-authenticated API
 - Setup up a DB of your choosing (MySQL, Postgres etc.)
-- Write migrations for database table and seeders for housing Lorem Ipsum content
-- Write migrations for database table to store results of the contact form
+- Write migrations/scripts for database table and seed data for housing Lorem Ipsum content
+- Write migrations/scripts for database table to store results of the contact form
 - Create GET endpoint that returns content from the DB for each of the Lorem Ipsum sections (URL path up to your discretion)
   - Content for title
   - Content for paragraph
