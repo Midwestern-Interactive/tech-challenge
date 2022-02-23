@@ -27,6 +27,7 @@ Any framework or package may be used in addition to any that may have been reque
 
 Object 1
 - Matt Johnson
+- Matt Johnson
 - Bart Paden
 - Ryan Doss
 - Jared Malcolm
@@ -34,6 +35,8 @@ Object 1
 Object 2
 - Matt Johnson
 - Bart Paden
+- Bart Paden
+- Jordan Heigle
 - Jordan Heigle
 - Tyler Viles
 
