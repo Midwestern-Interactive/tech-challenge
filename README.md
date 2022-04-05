@@ -25,14 +25,14 @@ Any framework or package may be used in addition to any that may have been reque
     - Red: #800000
 - At the bottom of the mock up there is a Javascript puzzle. Please use the following data.
 
-Object 1
+Array 1
 - Matt Johnson
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
 - Jared Malcolm
 
-Object 2
+Array 2
 - Matt Johnson
 - Bart Paden
 - Bart Paden
@@ -40,7 +40,7 @@ Object 2
 - Jordan Heigle
 - Tyler Viles
 
-Result Object/Array
+Result Array
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
