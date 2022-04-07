@@ -15,13 +15,14 @@ Any framework or package may be used in addition to any that may have been reque
   - Desktop and mobile views are available from the left side menu in [Figma](https://api.mwi.dev/figma)
   - Scale elements/sections as necessary for content breaks in a responsive manner.
   - **Fonts**: https://fonts.google.com/specimen/Poppins
+    - Light
     - Bold
     - Medium
   - **Primary Colors**:
     - Gold: #DEBF79
-    - Dark Gray (background): #222222
-    - Mid Gray (text): #858585
-    - Light Gray (inputs): #F5F5F5
+    - Dark Gray (background, text): #222222
+    - Mid Gray (input text): #858585
+    - Light Gray (inputs, contrast text): #F5F5F5
     - Red: #800000
 - At the bottom of the mock up there is a Javascript puzzle. Please use the following data.
 
