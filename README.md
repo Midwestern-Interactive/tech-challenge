@@ -7,7 +7,7 @@ You will find all necessary assets provided in this repository.
 Once complete, place your codebase in a github repository and provide the link to your contact at Midwestern.
 
 ## 1. Front-end Challenge
-Any framework or package may be used in addition to any that may have been requested by your contact.
+Any framework, utility or package may be used in addition to any that may have been requested by your contact.
 
 - Programmatically build out both layouts (home/contact) using HTML/CSS/SASS/JS or any other stack/framework mentioned
   by your contact, see screenshots and [Figma](https://api.mwi.dev/figma) prototype for what the
